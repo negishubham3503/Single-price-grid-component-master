@@ -1,0 +1,82 @@
+body{
+    font-family: "Karla";
+    font-size: 32px;
+    margin: 0;
+}
+#top-container{
+    padding: 6rem;
+}
+h1{
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+}
+h3{
+    color: hsl(71, 73%, 54%);
+    font-weight: bold;
+    margin-bottom: 1.25rem;
+}
+.top-description{
+    margin-top: 0;
+    color: hsl(218, 22%, 67%);
+    line-height: 3rem;
+    
+}
+.bottom-left{
+    padding: 6rem;
+    background-color: hsl(179, 62%, 43%);
+    display: inline-block;
+    color: white;
+}
+h2{
+    font-size: 1.35rem;
+}
+.bl-head{
+    color: white;
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+.price{
+    font-size: 2.5rem;
+    font-weight: bold;
+    display: inline-block;
+    color: inherit;
+    margin-top: 1.25rem;
+    margin-bottom: 0.7rem;
+}
+h4{
+    color: hsl(179, 79%, 55%);
+    display: inline-block;
+    margin: 0 0.5rem;
+    position: relative;
+    bottom: 0.3rem;
+    font-size: 1.5rem;
+}
+.bl-des{
+    margin-top: 0;
+}
+button{
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    padding: 1.5rem;
+    width: 100%;
+    color: white;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    margin-top: 3rem;
+}
+.bottom-right{
+    padding: 6rem;
+    background-color: hsl(179, 79%, 55%);
+}
+.bottom-right-des{
+    color: hsl(177, 49%, 91%);
+    padding-top: 2rem;
+    margin: 0;
+    line-height: 2.25rem;
+}
+.attribution{
+    font-size: 1rem;
+    text-align: center;
+    color: hsl(218, 22%, 67%);
+}
